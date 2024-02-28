@@ -39,13 +39,11 @@ Log(Y) = C + 0.391359(x1) + 0.359583(x2) + 0.345160(x3) + 0.318507(x4) + 0.21872
 
 ## Acknowledgements
 Give credit here.
-- This project was executed  by... vamshi krishna p
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was executed  by... Souhardya Biswas
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [www.linkedin.com/in/souhardyaaienthusiast] - feel free to contact me!
 
 
 <!-- Optional -->
